@@ -1,0 +1,138 @@
+Package name,app name,feature
+id=com.textra,Textra SMS,"Feature rich, notably 180+ material design theme, bubble & app icon colors"
+id=com.textra,Textra SMS,"scheduled (future) SMS & MMS, send delay, slide to delete, slide to call, quick snap camera, multi-select picture gallery, quick reply SMS popup"
+id=com.textra,Textra SMS,"awesome MMS GROUP messaging, quick voice memos, endless GIFs, 21 text sizes, multiple font options, message blocker / blocklisting"
+id=com.textra,Textra SMS,"pin-to-top, automatic video & picture compression, support for iOS reactions, iOS emojis"
+id=com.textra,Textra SMS,"Customize your preferred theme & bubble colors, signatures and notifications (icon shape, sound, privacy, reminders, and muting) per conversation as well"
+id=com.textra,Textra SMS,"Get all the latest Android, Twitter, JoyPixels & iOS style emojis including diversity (skin tone). Just pick your preferred emoji style and express yourself"
+id=com.textra,Textra SMS,Added support for Reactions (also known as Tapbacks) received from iOS Apple devices
+id=com.textra,Textra SMS, Copy Partial Text tap a bubble to check out this great new feature that allows you to copy any part of the text in a bubble
+"id=com.google.android.ap
+ps.messaging",Messages,Get more done in your messages with one-tap calendar reminders and emoji replies
+"id=com.google.android.ap
+ps.messaging",Messages,"See when friends are typing or when they have read your message, share high-quality images and videos, easily add people to a group chat, and experience an all-around richer messaging experience."
+"id=com.google.android.ap
+ps.messaging",Messages,"End-to-end encryption is a security method that keeps your eligible communications secure, so no one (including Google and third parties) can read or view your messages or attachments."
+"id=com.google.android.ap
+ps.messaging",Messages,Receive warnings about suspected spam and unsafe websites. Easily block and report potential spammers to help stop unwanted and fraudulent messages.
+"id=com.google.android.ap
+ps.messaging",Messages,Share high-quality videos directly from your Google Photos library.
+"id=com.google.android.ap
+ps.messaging",Messages,"Keep the conversation going no matter what device you're on. Chat with friends from your phone, computer, Android tablet, or smart watch with the Messages app."
+"id=com.google.android.ap
+ps.messaging",Messages,"Access suggested replies, one-tap calendar reminders, link sharing, and more without leaving your message. Reply quicker and get more out of your conversations with smart actions."
+"id=com.google.android.ap
+ps.messaging",Messages,"Suggested responses, gifs, and emojis make conversations faster and more fun. Reply back to messages with just a tap and keep the conversation going."
+"id=com.google.android.ap
+ps.messaging",Messages,"Write a text message when it's convenient for you, then schedule the ideal date and time to send it. Get ahead of well wishes and ensure your messages arrive at the optimal time with schedule send."
+id=xyz.klinker.messenger,Pulse SMS,Unparalleled design and fluid animations
+id=xyz.klinker.messenger,Pulse SMS,Endless global and per-conversation customization options
+id=xyz.klinker.messenger,Pulse SMS,Suggested Smart Replies within conversations
+id=xyz.klinker.messenger,Pulse SMS,"Password protected, private text conversations"
+id=xyz.klinker.messenger,Pulse SMS,"Share GIFs with your messages, from Giphy"
+id=xyz.klinker.messenger,Pulse SMS,Powerful searching through messages and conversations
+id=xyz.klinker.messenger,Pulse SMS,Automatic message backup and restore with a Pulse SMS account
+id=xyz.klinker.messenger,Pulse SMS,Preview web links
+id=xyz.klinker.messenger,Pulse SMS,Blacklist pesky spammers
+id=xyz.klinker.messenger,Pulse SMS,Delayed sending to give you time to edit or cancel messages you send
+id=xyz.klinker.messenger,Pulse SMS,"Automated replies based on contacts, keywords, and driving/vacation modes"
+id=xyz.klinker.messenger,Pulse SMS,Dual-SIM support
+id=xyz.klinker.messenger,Pulse SMS,"First and foremost, all of your conversations are stored in end-to-end encryption. You never have to worry about your data leaking out and no one can see your messages except for you, not even the Pulse SMS Team! With Pulse SMS, you get privacy and peace of mind, right out of the box."
+id=xyz.klinker.messenger,Pulse SMS,"In technical terms, we use PBKDF2 to encrypt your password and use it as a key to encrypt messages and conversations."
+id=xyz.klinker.messenger,Pulse SMS,"Pulse SMS has a web app that you can use. It also has native apps for tablets, MacOS, Windows, Google Chrome, Firefox, Linux, and even Android TV. Check out all of our platforms, along with screenshots, here: https://home.pulsesms.app/overview/"
+id=com.calea.echo,Mood SMS,Message bubble shapes & colors
+id=com.calea.echo,Mood SMS,Backgrounds & over 100 messaging themes
+id=com.calea.echo,Mood SMS,Message fonts & text size
+id=com.calea.echo,Mood SMS,"Messages notifications (LED, sounds, vibration, format)"
+id=com.calea.echo,Mood SMS,"Animated Emojis - iOS, Android or Emoji One style emojis. Discover a messenger app like no other"
+id=com.calea.echo,Mood SMS,Choose over 100 free themes to personalize your messenger app
+id=com.calea.echo,Mood SMS,Typing indicator to see when your contact is writing you a message
+id=com.calea.echo,Mood SMS,Secure your messages with Chat Encryption between Mood Premium users
+id=com.calea.echo,Mood SMS,Real time Caller ID - no more number guessing!
+id=com.calea.echo,Mood SMS,Group messaging conversations
+id=com.calea.echo,Mood SMS,Easy & Fast messaging from the After Call Screen
+id=com.calea.echo,Mood SMS,Private conversation to hide messages and protect them with a password
+id=com.calea.echo,Mood SMS,Spam blocking to blacklist annoying messages
+id=com.calea.echo,Mood SMS,Send funnier messages thanks to animated GIF library
+id=com.calea.echo,Mood SMS,Dual SIM
+id=com.calea.echo,Mood SMS,Easy location sharing
+id=com.calea.echo,Mood SMS,Schedule your messages
+id=com.calea.echo,Mood SMS,Delay sending messages to avoid mistakes
+id=com.calea.echo,Mood SMS,Pin important conversations at the top of the list for instant messaging
+id=com.p1.chompsms,Chomp SMS,a passcode lock
+id=com.p1.chompsms,Chomp SMS,privacy options
+id=com.p1.chompsms,Chomp SMS,"scheduled SMS sender (reminders, birthday wishes)"
+id=com.p1.chompsms,Chomp SMS,stop a text while sending
+id=com.p1.chompsms,Chomp SMS,"backup, blocklisting / SMS blocker"
+id=com.p1.chompsms,Chomp SMS,quick reply popup (even on lock screen)
+id=com.p1.chompsms,Chomp SMS,multi-select picture gallery
+id=com.p1.chompsms,Chomp SMS,dual sim
+id=com.p1.chompsms,Chomp SMS,better MMS and GROUP messaging
+id=com.p1.chompsms,Chomp SMS," change notification LED colors, ringtones, and vibrate patterns."
+id=com.p1.chompsms,Chomp SMS,"customize the screen color, font style, text size and background wallpaper. "
+id=com.p1.chompsms,Chomp SMS,Mark as Unread feature. Simply long press on an entry in the Conversation List and select Mark as Unread. The conversation will then remain unread until you open it. Great for not forgetting about something to action later!
+id=com.moez.QKSMS,QKSMS,Dual-SIM and Multi-SIM phones are now fully supported by QKSMS!
+id=com.moez.QKSMS,QKSMS,"A beautiful, intuitive, and clutter-free design that allows you to focus on what matters."
+id=com.moez.QKSMS,QKSMS,"Use any of the millions of colors to theme the entire app, or any particular conversation. Per-contact notifications allow you to easily prioritize and distinguish your messages. Manual and automatic night mode are great too."
+id=com.moez.QKSMS,QKSMS,"Use any of the millions of colors to theme the entire app, or any particular conversation. Per-contact notifications allow you to easily prioritize and distinguish your messages. Manual and automatic night mode are great too."
+id=com.moez.QKSMS,QKSMS,"Use MMS to share photos, stickers, or join your friends in a group chat. Conversation search allows you to find things easier than ever."
+id=com.moez.QKSMS,QKSMS,"Easily Back up and Restore your messages, all without having to install another app."
+id=com.moez.QKSMS,QKSMS,"Easily block conversations and manage your blacklist, or automatically filter out spam with Should I Answer? integration."
+id=com.moez.QKSMS,QKSMS,"Reply to your messages from anywhere using the QK Reply popup, your Wear OS (Android Wear) watch, or directly from your notification shade (Android 7.0+)"
+id=com.moez.QKSMS,QKSMS,"High contrast black theme, and full support for TalkBack and Samsung Voice Assistant."
+"id=org.thoughtcrime.secur
+esms",Signal,"Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected"
+"id=org.thoughtcrime.secur
+esms",Signal,"Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you."
+"id=org.thoughtcrime.secur
+esms",Signal,"Say anything – State-of-the-art end-to-end encryption (powered by the open source Signal Protocol™) keeps your conversations secure. Privacy isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time."
+"id=org.thoughtcrime.secur
+esms",Signal,Feel free – Signal is a completely independent 501c3 nonprofit. Development is supported by users like you. No advertisements. No trackers. No kidding.
+"id=org.thoughtcrime.secur
+esms",Signal,Be yourself – You can use your existing phone number and address book to securely communicate with your friends.
+"id=org.thoughtcrime.secur
+esms",Signal,"Speak up – Whether they live across town or across the ocean, Signal’s enhanced audio and video quality will make your friends and family feel closer."
+"id=org.thoughtcrime.secur
+esms",Signal,Whisper in the shadows – Switch to the dark theme if you refuse to see the light.
+"id=org.thoughtcrime.secur
+esms",Signal,"Sound familiar – Choose custom alerts for each contact, or disable noises completely. Simon & Garfunkel wrote a hit song about it in 1964, and you can experience the sound of silence whenever you want by choosing “None” as your notification ringtone."
+"id=org.thoughtcrime.secur
+esms",Signal,"Picture this – Use the built-in image editing features to sketch, crop, and flip your outgoing photos. There’s even a text tool so that you can add more words to the 1,000 that your picture is already worth."
+id=com.whatsapp,Whatsapp,Private messaging across the world
+id=com.whatsapp,Whatsapp,"Your personal messages and calls to friends and family are end-to-end encrypted. No one outside of your chats, not even WhatsApp, can read or listen to them."
+id=com.whatsapp,Whatsapp,"All you need is your phone number, no user names or logins. You can quickly view your contacts who are on WhatsApp and start messaging."
+id=com.whatsapp,Whatsapp,High quality voice and video calls
+id=com.whatsapp,Whatsapp,"Make secure video and voice calls with up to 8 people for free*. Your calls work across mobile devices using your phone’s Internet service, even on slow connections."
+id=com.whatsapp,Whatsapp,Group chats to keep you in contact
+id=com.whatsapp,Whatsapp,"Stay in touch with your friends and family. End-to-end encrypted group chats let you share messages, photos, videos and documents across mobile and desktop."
+id=com.whatsapp,Whatsapp,"Share your location with only those in your individual or group chat, and stop sharing at any time. Or record a voice message to connect quickly."
+id=com.whatsapp,Whatsapp,Share daily moments through Status
+id=com.whatsapp,Whatsapp,"Status allows you to share text, photos, video and GIF updates that disappear after 24 hours. You can choose to share status posts with all your contacts or just selected ones."
+id=com.viber.voip,Viber,"Enjoy unlimited Viber-to-Viber calls with up to 50 people and make crystal-clear audio and video calls to anyone in the world. Great for connecting with friends, family, and colleagues!"
+id=com.viber.voip,Viber,"On by default for all 1-1 calls, chats, and group chats, end-to-end encryption allows to you to communicate with confidence knowing that all private messages are, well, private. No one, not even Viber can read your messages."
+id=com.viber.voip,Viber,"Catch up with friends, family, and coworkers by opening a group chat for up to 250 members. Use polls and quizzes, @mentions and reactions to get the most out of your group!"
+id=com.viber.voip,Viber,"Staying in touch has never been easier. Send a free text, photo, sticker, GIFs, or video message, along with many other types of files. Viber is a great alternative for fans of SMS texting!"
+id=com.viber.voip,Viber,React to messages with emojis to express exactly how you feel in your 1-on-1 and group chats!
+id=com.viber.voip,Viber,"Send Disappearing Messages in your 1-on-1 and group chats by setting a timer for each message. Choose how long the recipient has to read your message - 10 seconds, 1 minute, or up to 1 day!"
+id=com.viber.voip,Viber,"Characters are unlimited on Viber! Get creative with fun, funny, and beautifying Viber lenses. GIFs and over 55,000 stickers also await you - you can even create your own!"
+id=com.viber.voip,Viber,"Whether it's sports, news, cooking, travel or entertainment, get the content you really want and connect with others with similar interests. Interact with an unlimited number of people, about a shared topic or passion. Start your own, and enjoy more ways to engage your members and subscribers!"
+id=com.viber.voip,Viber,Call any landline or mobile phone with Viber Out’s low-cost international calling service.
+id=com.discord,Discord,"Discord servers are organized into topic-based channels where you can collaborate, share, have meetings, or just talk to friends about your day without clogging up a group chat."
+id=com.discord,Discord,Send a message directly to a friend or call them up with our voice chat feature
+id=com.discord,Discord,Voice channels make hanging out easy. Got a free moment? Grab a seat in a voice channel so friends can see you’re around and pop in to talk without having to call. You can even watch videos together!
+id=com.discord,Discord,Reliable tech for staying close with friends. Low-latency voice and video chat feels like you’re meeting in the same room.
+id=com.discord,Discord,Easily talk with friends while gaming and steam roll the competition.
+id=com.discord,Discord,Be a meme messenger with easy image sharing
+id=com.discord,Discord,"Wave hello over video, watch friends stream their games, share stories over voice calls, or gather up and have a drawing session with screen share."
+id=com.discord,Discord,Snap a photo and turn it into your own custom emojis and share them with friends.
+id=com.discord,Discord,"Share anything from funny videos and stories to your latest group photos, and pin your favorites to remember those moments later."
+id=com.discord,Discord,Hang out in group channels or talk privately with direct messages
+id=com.discord,Discord,Zoom through convos with friends using topic-specific channels!
+id=com.discord,Discord,"Custom moderation tools and permission levels can group up your friends or teams, organize meetings for your local book club, or bring together music fans from around the world."
+id=com.discord,Discord,"Create moderators, give special members access to private channels, and much more"
+id=com.Slack,Slack,"Communicate with your team and organize your conversations by topics, projects, or anything else that matters to your work"
+id=com.Slack,Slack,Message or call any person or group within your team
+id=com.Slack,Slack,Share and edit documents and collaborate with the right people all in Slack
+id=com.Slack,Slack,"Integrate into your workflow, the tools and services you already use including Google Drive, Salesforce, Dropbox, Asana, Twitter, Zendesk, and more"
+id=com.Slack,Slack,Easily search a central knowledge base that automatically indexes and archives your team’s past conversations and files
+id=com.Slack,Slack,Customize your notifications so you stay focused on what matters

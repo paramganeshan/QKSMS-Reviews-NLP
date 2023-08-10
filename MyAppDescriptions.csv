@@ -1,0 +1,346 @@
+Package name,app name,Google Play page,app description
+id=com.textra,Textra SMS,"https://play.google.com/store/apps/details?id=com.textra&hl=en_CA&
+gl=US","Textra is an alternative to your stock SMS/MMS app (that came preinstalled on your phone). So, whether you're looking for a faster experience, better customization options, more color or just a specific feature (like scheduling a text in the future) you've come to the right place.
+
+Feature rich, notably 180+ material design theme, bubble & app icon colors. Light, dark, black, night & android screen modes, multiple bubble styles, scheduled (future) SMS & MMS, send delay, slide to delete, slide to call, quick snap camera, multi-select picture gallery, quick reply SMS popup, awesome MMS GROUP messaging, quick voice memos, endless GIFs, 21 text sizes, multiple font options, message blocker / blocklisting, pin-to-top, automatic video & picture compression, support for iOS reactions, iOS emojis & heaps more!
+
+Customize your preferred theme & bubble colors, signatures and notifications (icon shape, sound, privacy, reminders, and muting) per conversation as well.
+
+Get all the latest Android, Twitter, JoyPixels & iOS style emojis including diversity (skin tone). Just pick your preferred emoji style and express yourself!
+
+NEW: Added support for Reactions (also known as Tapbacks) received from iOS Apple devices. So, for example instead of seeing an incoming message saying: Loved ""See you at 9pm"", you'll now see a love heart emoji superimposed on the message you sent. Just like on iOS devices, Facebook Messenger etc. You can also send reactions!
+
+NEW: Copy Partial Text tap a bubble to check out this great new feature that allows you to copy any part of the text in a bubble!
+
+It's pretty special; try it, tell your friends, shout from the treetops, but most of all enjoy it.
+
+Fully compatible with Pushbullet, MightyText, Android Wear and Android Auto (car) for enhanced notifications and quick reply.
+
+All Textra features are free forever. Occasionally you'll see an ad, or you can choose to make a once only in-app purchase to remove ads forever.
+
+Support, Knowledge Base & Feedback @ https://textra.uservoice.com
+
+Simple. Beautiful. Fast."
+"id=com.google.android.ap
+ps.messaging",Messages,"https://play.google.com/store/apps/details?id=com.google.android.ap
+ps.messaging&hl=en_CA&gl=US","Messages by Google is the official Google app for texting over RCS with fallback to SMS/MMS. Get more done in your messages with one-tap calendar reminders and emoji replies, and keep your conversations secure with spam protection and end-to-end encryption so that you can focus on connecting with the people and businesses you care about — no matter what device they use.
+
+See when friends are typing or when they have read your message, share high-quality images and videos, easily add people to a group chat, and experience an all-around richer messaging experience.
+
+End-to-end encryption is a security method that keeps your eligible communications secure, so no one (including Google and third parties) can read or view your messages or attachments.
+
+Receive warnings about suspected spam and unsafe websites. Easily block and report potential spammers to help stop unwanted and fraudulent messages.
+
+Share high-quality videos directly from your Google Photos library.
+
+Keep the conversation going no matter what device you're on. Chat with friends from your phone, computer, Android tablet, or smart watch with the Messages app.
+
+Access suggested replies, one-tap calendar reminders, link sharing, and more without leaving your message. Reply quicker and get more out of your conversations with smart actions.
+
+Suggested responses, gifs, and emojis make conversations faster and more fun. Reply back to messages with just a tap and keep the conversation going.
+
+Write a text message when it's convenient for you, then schedule the ideal date and time to send it. Get ahead of well wishes and ensure your messages arrive at the optimal time with schedule send."
+id=xyz.klinker.messenger,Pulse SMS,https://play.google.com/store/apps/details?id=xyz.klinker.messenger,"Want an SMS app that is fast, secure, and packed with all the features and customization you could want? Look no further.
+
+Pulse SMS is a seriously beautiful, next-generation, private text messaging app.
+
+We care deeply about your experience with the app, and are committed to creating the best SMS texting app.
+
+To round out its best-in-class phone app, Pulse SMS re-imagines your communication by giving you the ability to sync your SMS and MMS messages across all of your devices. Send and receive texts and pictures—seamlessly—from your computer, tablet, car, or any device with an internet connection.
+
+This is text messaging, done right.
+
+---------
+
+A Taste of the Features
+Pulse SMS is jam packed with features. On top of syncing between all of your devices, here is a small taste of what makes it the ultimate text messaging experience:
+- Unparalleled design and fluid animations
+- Endless global and per-conversation customization options
+- Suggested Smart Replies within conversations
+- Password protected, private text conversations
+- Share GIFs with your messages, from Giphy
+- Powerful searching through messages and conversations
+- Automatic message backup and restore with a Pulse SMS account
+- Preview web links
+- Blacklist pesky spammers
+- Delayed sending to give you time to edit or cancel messages you send
+- Automated replies based on contacts, keywords, and driving/vacation modes
+- Dual-SIM support
+
+Encryption Protocol
+First and foremost, all of your conversations are stored in end-to-end encryption. You never have to worry about your data leaking out and no one can see your messages except for you, not even the Pulse SMS Team! With Pulse SMS, you get privacy and peace of mind, right out of the box.
+
+Privacy Protection Proof
+In technical terms, we use PBKDF2 to encrypt your password and use it as a key to encrypt messages and conversations.
+
+Technical Encryption Overview
+
+1) When an account is created, we generate two salts. One to use with authentication and one for end-to-end encryption.
+
+2) The one that we use with login is straight-forward and normal. We store a version of your password, hashed against the first salt, and authenticate you against this hash.
+
+3) For the encryption, we hash your password against salt #2 and store it locally on your device (computer/tablet/phone). Having this key is the only way that you can decrypt messages. Since no one else has the password that was hashed against the second salt, no one else will be able to decrypt anything.
+
+We share our privacy protocol publicly so our users have peace of mind knowing their password is never stored anywhere and without that password, there is no way to create the secret key used for encrypting and decrypting the content stored in the backend.
+
+Supported Platforms
+Pulse SMS has a web app that you can use. It also has native apps for tablets, MacOS, Windows, Google Chrome, Firefox, Linux, and even Android TV. Check out all of our platforms, along with screenshots, here: https://home.pulsesms.app/overview/
+
+-------
+
+Pulse SMS is the premier web, computer, and private texting application on Android. Everything is instant, setup is a breeze, and it's design is unlike anything you have ever seen.
+
+Helpful Links
+
+Website: https://maplemedia.io/
+Privacy Policy: https://maplemedia.io/privacy/
+Support: contact@maplemedia.io"
+id=com.calea.echo,Mood SMS,https://play.google.com/store/apps/details?id=com.calea.echo,"An awesome customizable alternative to your default Android SMS & MMS messaging app.
+
+A simple, smooth, and effective messenger app.
+
+You can customize almost everything, and you have access to awesome messaging features like the message typing indicator and real time caller id.
+
+If you are frustrated by the default Android message app, you must try Mood SMS
+
+ 
+
+Fully Customizable (per contact if you want):
+
+- Message bubble shapes & colors
+
+- Backgrounds & over 100 messaging themes
+
+- Message fonts & text size
+
+- Messages notifications (LED, sounds, vibration, format)
+
+- Animated Emojis - iOS, Android or Emoji One style emojis. Discover a messenger app like no other
+
+- Choose over 100 free themes to personalize your messenger app
+
+- Dark mode
+
+ 
+
+Awesome texting features:
+
+- Typing indicator to see when your contact is writing you a message
+
+- Secure your messages with Chat Encryption between Mood Premium users
+
+- Group messaging conversations
+
+- Real time Caller ID - no more number guessing!
+
+- Easy & Fast messaging from the After Call Screen
+
+- Private conversation to hide messages and protect them with a password
+
+- Spam blocking to blacklist annoying messages
+
+- Send funnier messages thanks to animated GIF library
+
+ 
+
+- Dual SIM
+
+- Easy location sharing
+
+- Schedule your messages
+
+- Delay sending messages to avoid mistakes
+
+- Pin important conversations at the top of the list for instant messaging
+
+ 
+
+So, if you want a messenger app, crash-free, user-friendly SMS & MMS texting app with dozens of awesome features, look no further and give Mood a try.
+
+Mood SMS is compatible with most brands of phones like Samsung, Huawei, Wiko, Sony, and HTC.
+
+ 
+
+A question? An observation? Or simply want to say hi? Contact us :
+• On the website: http://moodsms.com
+• by mail: support@moodsms.com"
+id=com.p1.chompsms,Chomp SMS,https://play.google.com/store/apps/details?id=com.p1.chompsms,"Want an ultra-customizable alternative to your stock Android SMS / MMS app?
+
+Well today is your day. Join the Chomp SMS revolution now at 10+ million strong!
+
+Chomp comes with a bunch of great features, notably a passcode lock, privacy options, scheduled SMS sender (reminders, birthday wishes), stop a text while sending, pin favs to top, backup, blocklisting / SMS blocker, signatures, text snippets, quick reply popup (even on lock screen), multi-select picture gallery, dual sim, better MMS and GROUP messaging and much more....
+
+Plus unlimited customization options when receiving messages: change notification LED colors, ringtones, and vibrate patterns. In Chomp you can also customize the screen color, font style, text size and background wallpaper. Go on give it some bling!
+
+Get all the latest Android, Twitter, JoyPixels & iOS style emojis including diversity (skin tone). Just pick your preferred emoji style and express yourself!
+
+NEW: Mark as Unread feature. Simply long press on an entry in the Conversation List and select Mark as Unread. The conversation will then remain unread until you open it. Great for not forgetting about something to action later!
+
+Give Chomp SMS a try today! It's pretty special.
+
+Fully compatible with Pushbullet, MightyText, Android Wear and Android Auto (car) for enhanced notifications and quick reply.
+
+All Chomp features are free forever. Occasionally you'll see an ad, or you can choose to make a once only in-app purchase to remove ads forever.
+
+Support, Knowledge Base & Feedback @ https://chomp.uservoice.com"
+id=com.moez.QKSMS,QKSMS,https://play.google.com/store/apps/details?id=com.moez.QKSMS&hl=en_CA&gl=US&pli=1,"We’re making texting magical again. QKSMS is the most beautiful messaging experience you’ve ever used. Replace your stock messaging app and fall in love with texting all over again.
+
+QKSMS is also completely ad-free and open source, the way your messaging app should be.
+
+New: Dual-SIM and Multi-SIM phones are now fully supported by QKSMS!
+
+Clean
+A beautiful, intuitive, and clutter-free design that allows you to focus on what matters.
+
+Customizable
+Use any of the millions of colors to theme the entire app, or any particular conversation. Per-contact notifications allow you to easily prioritize and distinguish your messages. Manual and automatic night mode are great too.
+
+Powerful
+Use MMS to share photos, stickers, or join your friends in a group chat. Conversation search allows you to find things easier than ever.
+
+Safe
+Easily Back up and Restore your messages, all without having to install another app.
+
+Private
+Easily block conversations and manage your blacklist, or automatically filter out spam with Should I Answer? integration.
+
+Convenient
+Reply to your messages from anywhere using the QK Reply popup, your Wear OS (Android Wear) watch, or directly from your notification shade (Android 7.0+)
+
+Accessibility
+High contrast black theme, and full support for TalkBack and Samsung Voice Assistant.
+
+We love hearing what you have to say, so always feel free to let us know whenever you have any feedback or suggestions!
+
+If you'd like to view the QKSMS source code, it's available on Github: https://github.com/moezbhatti/qksms/"
+"id=org.thoughtcrime.secur
+esms",Signal,"https://play.google.com/store/apps/details?id=org.thoughtcrime.secur
+esms&hl=en_CA&gl=US","Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
+
+• Say anything – State-of-the-art end-to-end encryption (powered by the open source Signal Protocol™) keeps your conversations secure. Privacy isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time.
+
+• Feel free – Signal is a completely independent 501c3 nonprofit. Development is supported by users like you. No advertisements. No trackers. No kidding.
+
+• Be yourself – You can use your existing phone number and address book to securely communicate with your friends.
+
+• Speak up – Whether they live across town or across the ocean, Signal’s enhanced audio and video quality will make your friends and family feel closer.
+
+• Whisper in the shadows – Switch to the dark theme if you refuse to see the light.
+
+• Sound familiar – Choose custom alerts for each contact, or disable noises completely. Simon & Garfunkel wrote a hit song about it in 1964, and you can experience the sound of silence whenever you want by choosing “None” as your notification ringtone.
+
+• Picture this – Use the built-in image editing features to sketch, crop, and flip your outgoing photos. There’s even a text tool so that you can add more words to the 1,000 that your picture is already worth.
+
+
+For support, questions, or more information, please visit:
+https://support.signal.org
+
+Source code:
+https://github.com/signalapp
+
+Follow us on Twitter (@signalapp) and Instagram (@signal_app) for all of the latest updates and announcements."
+id=com.whatsapp,Whatsapp,"https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_
+CA&gl=US","WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. It’s simple, reliable, and private, so you can easily keep in touch with your friends and family. WhatsApp works across mobile and desktop even on slow connections, with no subscription fees*.
+
+Private messaging across the world
+
+Your personal messages and calls to friends and family are end-to-end encrypted. No one outside of your chats, not even WhatsApp, can read or listen to them.
+
+Simple and secure connections, right away
+
+All you need is your phone number, no user names or logins. You can quickly view your contacts who are on WhatsApp and start messaging.
+
+High quality voice and video calls
+
+Make secure video and voice calls with up to 8 people for free*. Your calls work across mobile devices using your phone’s Internet service, even on slow connections.
+
+Group chats to keep you in contact
+
+Stay in touch with your friends and family. End-to-end encrypted group chats let you share messages, photos, videos and documents across mobile and desktop.
+
+Stay connected in real time
+
+Share your location with only those in your individual or group chat, and stop sharing at any time. Or record a voice message to connect quickly.
+
+Share daily moments through Status
+
+Status allows you to share text, photos, video and GIF updates that disappear after 24 hours. You can choose to share status posts with all your contacts or just selected ones.
+
+
+*Data charges may apply. Contact your provider for details.
+
+---------------------------------------------------------
+
+If you have any feedback or questions, please go to WhatsApp > Settings > Help > Contact Us"
+id=com.viber.voip,Viber,"https://play.google.com/store/apps/details?id=com.viber.voip&hl=en_
+CA&gl=US","Viber is a secure, private, fun messaging and calling app, connecting over a billion people worldwide!
+
+With group chats, disappearing messages, reminders, and more, you can do it all with Viber!
+
+Make Free Audio and Video Calls
+Enjoy unlimited Viber-to-Viber calls with up to 50 people and make crystal-clear audio and video calls to anyone in the world. Great for connecting with friends, family, and colleagues!
+
+End-to-end Encryption
+On by default for all 1-1 calls, chats, and group chats, end-to-end encryption allows to you to communicate with confidence knowing that all private messages are, well, private. No one, not even Viber can read your messages.
+
+Open a Group Chat
+Catch up with friends, family, and coworkers by opening a group chat for up to 250 members. Use polls and quizzes, @mentions and reactions to get the most out of your group!
+
+Send Free Messages
+Staying in touch has never been easier. Send a free text, photo, sticker, GIFs, or video message, along with many other types of files. Viber is a great alternative for fans of SMS texting!
+
+React to Messages
+React to messages with emojis to express exactly how you feel in your 1-on-1 and group chats!
+
+Self-Destructing Messages
+Send Disappearing Messages in your 1-on-1 and group chats by setting a timer for each message. Choose how long the recipient has to read your message - 10 seconds, 1 minute, or up to 1 day!
+
+Express Yourself with Lenses GIFs and Stickers
+Characters are unlimited on Viber! Get creative with fun, funny, and beautifying Viber lenses. GIFs and over 55,000 stickers also await you - you can even create your own!
+
+Communities & Channels
+Whether it's sports, news, cooking, travel or entertainment, get the content you really want and connect with others with similar interests. Interact with an unlimited number of people, about a shared topic or passion. Start your own, and enjoy more ways to engage your members and subscribers!
+
+Make Low-cost Calls to Landlines with Viber Out
+Call any landline or mobile phone with Viber Out’s low-cost international calling service.
+
+Viber Out Subscriptions are bundled minutes to call a specific destination, which can be purchased in-app and be renewed monthly or weekly depending on your plan.
+
+Viber is part of the Rakuten Group, a world leader in e-commerce and financial services. Start using your unlimited call app for free today!"
+id=com.discord,Discord,"https://play.google.com/store/apps/details?id=com.discord&hl=en_C
+A&gl=US","Discord is where you can make a home for your communities and friends. Where you can stay close and have fun over text, voice, and video chat. Whether you’re part of a school club, a gaming group, a worldwide art community, or just a handful of friends who want to spend time together, Discord makes it easy to talk every day, and hang out more often.
+
+CREATE AN INVITE-ONLY PLACE
+• Discord servers are organized into topic-based channels where you can collaborate, share, have meetings, or just talk to friends about your day without clogging up a group chat.
+• Send a message directly to a friend or call them up with our voice chat feature
+• Voice channels make hanging out easy. Got a free moment? Grab a seat in a voice channel so friends can see you’re around and pop in to talk without having to call. You can even watch videos together!
+• Reliable tech for staying close with friends. Low-latency voice and video chat feels like you’re meeting in the same room.
+• Easily talk with friends while gaming and steam roll the competition.
+• Be a meme messenger with easy image sharing
+
+STAY CLOSE WITH TEXT, VIDEO, AND VOICE CHAT
+• Wave hello over video, watch friends stream their games, share stories over voice calls, or gather up and have a drawing session with screen share.
+• Snap a photo and turn it into your own custom emojis and share them with friends.
+• Share anything from funny videos and stories to your latest group photos, and pin your favorites to remember those moments later.
+• Hang out in group channels or talk privately with direct messages
+• Zoom through convos with friends using topic-specific channels!
+
+FOR A FEW OR A FANDOM
+• Custom moderation tools and permission levels can group up your friends or teams, organize meetings for your local book club, or bring together music fans from around the world.
+• Create moderators, give special members access to private channels, and much more.1"
+id=com.Slack,Slack,"https://play.google.com/store/apps/details?id=com.Slack&hl=en_CA&
+gl=US","Slack brings team communication and collaboration into one place so you can get more work done, whether you belong to a large enterprise or a small business. Check off your to-do list and move your projects forward by bringing the right people, conversations, tools, and information you need together. Slack is available on any device, so you can find and access your team and your work, whether you’re at your desk or on the go.
+
+Use Slack to:
+• Communicate with your team and organize your conversations by topics, projects, or anything else that matters to your work
+• Message or call any person or group within your team
+• Share and edit documents and collaborate with the right people all in Slack
+• Integrate into your workflow, the tools and services you already use including Google Drive, Salesforce, Dropbox, Asana, Twitter, Zendesk, and more
+• Easily search a central knowledge base that automatically indexes and archives your team’s past conversations and files
+• Customize your notifications so you stay focused on what matters
+
+Scientifically proven (or at least rumored) to make your working life simpler, more pleasant, and more productive. We hope you’ll give Slack a try.
+
+Stop by and learn more at: https://slack.com/
+
+Having trouble? Please reach out to feedback@slack.com"
